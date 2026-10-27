@@ -60,7 +60,7 @@ no QR codes, and no account, phone number, or email required.
 Zelu is **live on the App Store**: [download it here](https://apps.apple.com/br/app/zelu/id6772319658)
 or [join the TestFlight beta](https://testflight.apple.com/join/MuUJhqc9).
 Learn more at [**zelu.online**](https://zelu.online) (landing page repo:
-[C13G1/zelu-landing](https://github.com/C13G1/zelu-landing)).
+[EnzoFerroni/zelu-landing](https://github.com/EnzoFerroni/zelu-landing)).
 
 ---
 
